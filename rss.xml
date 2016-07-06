@@ -2,13 +2,48 @@
     <channel>
         <title><![CDATA[aut inveniam viam aut faciam]]></title>
         <description><![CDATA[aut inveniam viam aut faciam]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dsa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 19:27:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jul 2016 19:31:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dsa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cluj IT]]></title>
+            <description><![CDATA[<article><h1>Cluj IT</h1><p>Founded in October 2012, Cluj IT is an innovation based value chain network of Romanian IT companies and related organizations with the purpose of increasing the competitiveness and growth of IT services and products on international markets and of creating a strong sustainable public - private partnership in order to improve the life quality of the community we are part of.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c6145c01ac02a2c56e5f1776e84b6920/noop.jpg?input=http%3A%2F%2Fwww.clujit.ro%2Fmedia%2Fk2%2Fitems%2Fcache%2F474f4cdd4383ff91fd1d98bcb039d93b_M.jpg"></article>]]></description>
+            <link>http://www.clujit.ro</link>
+            <guid isPermaLink="false">481a204c-1536-4395-863d-e1ae4dab8538</guid>
+            <pubDate>Wed, 06 Jul 2016 19:31:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trencadis]]></title>
+            <description><![CDATA[<article><h1>Trencadis</h1><p>Acasa</p></article>]]></description>
+            <link>http://www.trencadis.ro</link>
+            <guid isPermaLink="false">34340fd6-879c-4001-9a67-d0f4b6847f9a</guid>
+            <pubDate>Wed, 06 Jul 2016 19:31:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Cluj Innovation City is an innovation and entrepreneurship hub.</p></article>]]></description>
+            <link>http://www.clujinnovationcity.com</link>
+            <guid isPermaLink="false">2c270960-6e27-4e5a-95ef-1cb083b000e1</guid>
+            <pubDate>Wed, 06 Jul 2016 19:31:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transylvania Evolution.]]></title>
+            <description><![CDATA[<article><h1>Transylvania Evolution.</h1><p>PARTNERSHIPS PROJECTS COMMUNITY Transylvania Evolution represents a private initiative dedicated to the growth and business partner-matching, providing tailored solutions to local and foreign investors, for a coherent long term consolidation and development of city of Cluj-Napoca and Transylvania Region.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8ce2e71d2ca892360e7d369cb79abb36/noop.jpg?input=http%3A%2F%2Ftransylvaniaevolution.ro%2Fwp-content%2Fuploads%2Flogo-dwnt-1.jpg"></article>]]></description>
+            <link>http://www.transylvaniaevolution.ro</link>
+            <guid isPermaLink="false">f39d29cc-0f26-41e8-a7bb-d6b1dae2072c</guid>
+            <pubDate>Wed, 06 Jul 2016 19:31:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>http://www.atelierrvd.ro</link>
+            <guid isPermaLink="false">9ed744fa-a586-4982-beac-70b173d39b63</guid>
+            <pubDate>Wed, 06 Jul 2016 19:31:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sim Soft - Air Traffic Management Integrated Simulator]]></title>
-            <description><![CDATA[<article><h1>Sim Soft - Air Traffic Management Integrated Simulator</h1><p>Obviously the air traffic controller's training within these units is of utmost importance and has a direct impact on revealing the quality of air traffic services. Air traffic simulator is the optimal solution for achieving this particular goal, therefore it must attend the previously mentioned units assuring prior planned, factual and real time training.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/939088babf9ef785e6a01df30d1a106c/noop.jpg?input=http%3A%2F%2Fsimsoft-atc.com%2Fimages%2Fslide1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Sim Soft - Air Traffic Management Integrated Simulator</h1><p>Obviously the air traffic controller's training within these units is of utmost importance and has a direct impact on revealing the quality of air traffic services. Air traffic simulator is the optimal solution for achieving this particular goal, therefore it must attend the previously mentioned units assuring prior planned, factual and real time training.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c79cf04f83b10bdd549915f0f06bd5053aca57b7.jpg"></article>]]></description>
             <link>http://simsoft-atc.com/</link>
             <guid isPermaLink="false">f30e0322-7080-4503-bda9-baed82701d85</guid>
             <pubDate>Wed, 06 Jul 2016 19:27:10 GMT</pubDate>
