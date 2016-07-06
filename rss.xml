@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[aut inveniam viam aut faciam]]></title>
+        <description><![CDATA[aut inveniam viam aut faciam]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jul 2016 19:27:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sim Soft - Air Traffic Management Integrated Simulator]]></title>
+            <description><![CDATA[<article><h1>Sim Soft - Air Traffic Management Integrated Simulator</h1><p>Obviously the air traffic controller's training within these units is of utmost importance and has a direct impact on revealing the quality of air traffic services. Air traffic simulator is the optimal solution for achieving this particular goal, therefore it must attend the previously mentioned units assuring prior planned, factual and real time training.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/939088babf9ef785e6a01df30d1a106c/noop.jpg?input=http%3A%2F%2Fsimsoft-atc.com%2Fimages%2Fslide1.jpg"></article>]]></description>
+            <link>http://simsoft-atc.com/</link>
+            <guid isPermaLink="false">f30e0322-7080-4503-bda9-baed82701d85</guid>
+            <pubDate>Wed, 06 Jul 2016 19:27:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
