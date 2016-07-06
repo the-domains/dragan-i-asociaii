@@ -1,8 +1,21 @@
+typography_spectrum: 0.4677419
+color:
+  saturation: 0.7204301
+  brandStrength: 0.8512545
+  lightness: 0.7634408
+  brandColors:
+    - '#C3C8CB'
+    - '#6182C7'
+    - '#0C100F'
+    - '#454744'
+    - '#DF9072'
+  rhythmicContrast: 0.234767
+layout_spectrum: 0.3010753
 author:
-  name: Ioan-Alexandru Drăgan
+  name: Drăgan și Asociații
   email: office@dragan.pro
   url: www.dragan.pro
-title: aut inveniam viam aut faciam
+name: Drăgan și Asociații
 collections:
   - index:
       path: /
@@ -15,17 +28,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.7204301
-  brandStrength: 0.8512545
-  lightness: 0.7634408
-  brandColors:
-    - '#C3C8CB'
-    - '#6182C7'
-    - '#0C100F'
-    - '#454744'
-    - '#DF9072'
-  rhythmicContrast: 0.234767
-typography_spectrum: 0.4677419
-layout_spectrum: 0.3010753
-name: Drăgan și Asociații
+title: aut inveniam viam aut faciam
