@@ -1,8 +1,14 @@
 layout_spectrum: 0.3225806
 color:
-  saturation: 0.2340261
-  lightness: 0.1953147
-  brandStrength: 0.7040951
-  rhythmicContrast: 0.03316522
-typography_spectrum: 0.7723327
+  saturation: 0.7204301
+  lightness: 0.7634408
+  brandStrength: 1
+  brandColors:
+    - '#080808'
+    - '#FFFFFF'
+    - '#9CA9BC'
+    - '#3A3D22'
+    - '#586075'
+  rhythmicContrast: 0.234767
+typography_spectrum: 0.4677419
 name: Drăgan și Asociații
